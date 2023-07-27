@@ -21,4 +21,5 @@ iOS, Android, Widows, Mac 등을 위해 컴파일한다는 건 많은 최적화�
     - In the JIT mode, the Dart VM can dynamically import Dart source, parse it, and instantly compile it to native machine code so that it can be executed. Debugging, hot reloading, and other features are available in this mode, which is used when developing a program. JIT only compiles the exact amount of code required. JIT also features incremental recompilation, allowing it to only recompile the compiled code as required.
 - **AOT** : Ahead of Time Compiler
     - The dynamic loading, parsing, and assembly of Dart source code are not supported by the Dart VM in the AOT mode. It can only be used to import and run precompiled machine code. The entire source code is compiled into machine code that the platform can handle natively by the ahead-of-time compiler. This is done prior to the platform running the application.
-- dartpad.dev
+- [dartpad.dev]()dartpad.dev
+- [dartpad.dev]()
