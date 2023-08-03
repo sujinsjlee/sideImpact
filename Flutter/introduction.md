@@ -1,6 +1,6 @@
 ## Flutter Architectureal overview
 
-[image](https://docs.flutter.dev/assets/images/docs/arch-overview/archdiagram.png)
+![image](https://docs.flutter.dev/assets/images/docs/arch-overview/archdiagram.png)
 
 ## Installation
 
